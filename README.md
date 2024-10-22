@@ -1,2 +1,4 @@
 # AnonymityBinder
-a Simple binder
+a Simple (virus) binder
+
+# For educational purpose only
